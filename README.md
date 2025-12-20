@@ -32,7 +32,6 @@
 
 ### 实验文档
 - [实验设计方案](documentation/01_experiment_design.md)
-[- ### 项目文件
 - [详细操作日志](文档/02_operation_log.md)](https://github.com/muhammadbuii-ops/AI-Augmented-Data-Analysis-Workflow/blob/main/02_operation_log.md%20-%20%E8%AF%A6%E7%BB%86%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97)
 - [结果分析报告](03_results_analysis.md)
 - [项目反思与总结](04_reflection.md)
